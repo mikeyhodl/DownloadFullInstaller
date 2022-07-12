@@ -7,6 +7,9 @@
 
 import Foundation
 
+// Note: this will be different for Monterey
+let defaultCatalog = "https://swscan.apple.com/content/catalogs/others/index-12-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog"
+
 enum SeedProgram: String, CaseIterable, Identifiable {
     case customerSeed = "CustomerSeed"
     case developerSeed = "DeveloperSeed"
