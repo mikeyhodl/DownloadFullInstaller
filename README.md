@@ -1,3 +1,10 @@
+** This project is retired! **
+
+I recommend [Mist](https://github.com/ninxsoft/Mist) instead.
+
+---
+
+
 # Download Full Installer
 
 ![](https://img.shields.io/github/v/release/scriptingosx/DownloadFullInstaller)&nbsp;![](https://img.shields.io/github/downloads/scriptingosx/DownloadFullInstaller/latest/total)&nbsp;![](https://img.shields.io/badge/macOS-11.0%2B-success)&nbsp;![](https://img.shields.io/github/license/scriptingosx/DownloadFullInstaller)
